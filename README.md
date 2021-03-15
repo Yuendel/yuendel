@@ -1,4 +1,4 @@
-# Hi there, I'm Yuendel Farias a.k.a Yu! 👋
+# Hi there, I'm Yuendel Farias a.k.a Yu! <img src="https://user-images.githubusercontent.com/69279746/111105930-d5fe3d80-8532-11eb-9158-cdd9cedf547f.gif" width="6%" />
 
 <a href="https://www.linkedin.com/in/yuendel-farias-ab6809142/">
   <img align="left" alt="yu's LinkdeIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
