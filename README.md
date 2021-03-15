@@ -1,18 +1,18 @@
 # Hi there, I'm Yuendel Farias a.k.a Yu! <img src="https://user-images.githubusercontent.com/69279746/111105930-d5fe3d80-8532-11eb-9158-cdd9cedf547f.gif" width="6%" />
 
-<a href="https://www.linkedin.com/in/yuendel-farias-ab6809142/">
+<a href="https://www.linkedin.com/in/yuendel-farias-ab6809142/" target="_blank">
   <img align="left" alt="yu's LinkdeIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Yuendel">
+<a href="https://github.com/Yuendel" target="_blank">
   <img align="left" alt="yu's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/yuendel_farias/">
+<a href="https://www.instagram.com/yuendel_farias/" target="_blank">
   <img align="left" alt="yu's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.hackerrank.com/yuendel_fb">
+<a href="https://www.hackerrank.com/yuendel_fb" target="_blank">
   <img align="left" alt="yu's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
-<a href="mailto:yuendel.fb@hotmail.com">
+<a href="mailto:yuendel.fb@hotmail.com" target="_blank">
   <img align="left" alt="yu's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
