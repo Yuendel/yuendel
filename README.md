@@ -28,11 +28,11 @@
 
 <br>
   
-- 🔭  I’m currently working on personal projects
-- 🌱 I’m currently learning Web :trident: on Cubos Academy
+- 🔭  I’m currently working on Ford Motor Company as System Analyst
+- 🌱 I’m currently learning the Wonderful world of OOP with Java :trident:
 - 👯 I’m looking to collaborate with anyone
-- 🤔 I’m looking for help with web
-- 💬 Ask me about programming logic
+- 🤔 I’m looking for help with Spring Boot
+- 💬 Ask me about Node and React
 - :musical_note: There is no such thing as "good taste", if you like, then it's a good music
 
   </div>
