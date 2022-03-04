@@ -20,7 +20,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/69279746/111102510-02ae5700-852b-11eb-97b9-7c21e8f01b34.jpg" />
 
 
-## <p align="center"><h4 align="center"><samp> An student Developer, An Cubos Academy student, a not so beautiful guy :laughing:  & A Competitive Programmer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> An junior Developer, An Web programming student, a not so beautiful guy :laughing:  & A Competitive Programmer </samp></h4></p>
 
 <div>
   
@@ -28,11 +28,11 @@
 
 <br>
   
-- 🔭  I’m currently working on Ford Motor Company as System Analyst
-- 🌱 I’m currently learning the Wonderful world of OOP with Java :coffee:
+- 🔭  I’m currently working on Ford Motor Company as System Analyst/Software developer
+- 🌱 I’m currently learning the Wonderful world of OOP with Java Spring Boot :coffee:
 - 👯 I’m looking to collaborate with anyone
 - 🤔 I’m looking for help with Spring Boot
-- 💬 Ask me about Node and React
+- 💬 Ask me about Node, React and Angular
 - :musical_note: There is no such thing as "good taste", if you like, then it's a good music
 
   </div>
