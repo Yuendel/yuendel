@@ -28,12 +28,12 @@
 
 <br>
   
-- 🔭  I’m currently working on Ford Motor Company as System Analyst/Software developer
-- 🌱 I’m currently learning the Wonderful world of OOP with Java Spring Boot :coffee:
+- 🔭  I’m currently working on Ford Motor Company as Software Developer
+- 🌱 I’m currently learning the Wonderful world of DevOps with Go and GCP.
 - 👯 I’m looking to collaborate with anyone
-- 🤔 I’m looking for help with Spring Boot
-- 💬 Ask me about Node, React and Angular
-- :musical_note: There is no such thing as "good taste", if you like, then it's a good music
+- 🤔 I’m looking for help with Kubernetes
+- 💬 Ask me about Node, React/Angular and any of the above Skills and Languages
+- :musical_note: There is no such thing as "good taste" in music, if you like, then it's a good music
 
   </div>
   
