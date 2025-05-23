@@ -20,7 +20,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/69279746/111102510-02ae5700-852b-11eb-97b9-7c21e8f01b34.jpg" />
 
 
-## <p align="center"><h4 align="center"><samp> An junior Developer, An Web programming student, a not so beautiful guy :laughing:  & A Competitive Programmer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> A full-stack web Developer, A SRE engineer, a not so beautiful guy :laughing:  & A Competitive Programmer </samp></h4></p>
 
 <div>
   
@@ -28,10 +28,10 @@
 
 <br>
   
-- 🔭  I’m currently working on Ford Motor Company as Software Developer
-- 🌱 I’m currently learning the Wonderful world of DevOps with Go <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> and GCP
-- 👯 I’m looking to collaborate with anyone
-- 🤔 I’m looking for help with Kubernetes
+- 🔭  I’m currently working on Ford Motor Company as Software Developer;
+- 🌱 I’m currently learning the Wonderful world of Embedded softwares and GCP;
+- 👯 I’m looking to collaborate with anyone;
+- 🤔 I’m looking for help with Load and Test perfomance;
 - 💬 Ask me about Node, React/Angular and any of the above Skills and Languages
 - :musical_note: There is no such thing as "good taste" in music, if you like, then it's a good music
 
